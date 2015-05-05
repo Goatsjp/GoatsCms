@@ -1,3 +1,0 @@
-GoatsCms is here.
-
-# GoatsCms
